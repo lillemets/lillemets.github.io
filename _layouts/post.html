@@ -32,9 +32,11 @@ layout: page
   <br><br>Day:  {{ page.day | date_to_string }}
   {% endif %}
 
+{% comment %}
   {% if page.equipment %}
   <br>Camera: {{ page.equipment }}
   {% endif %}
+{% endcomment %}
 
   {% if page.photos or page.video %}
   <br>Media: 
