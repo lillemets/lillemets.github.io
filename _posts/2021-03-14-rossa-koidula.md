@@ -20,7 +20,7 @@ Hommikul on minek kerge, sest sel korral olen suutnud pakkida seljakoti nii, et 
 
 Tee kulgebki esimesed kilomeetrid puude vahel, vahelduvad mets ja raiesmikud. Näen teel inimeste jälgi, kaks jalutajat on kõndinud kõrvuti minule vastassuunas. Kuigi jäljed püsivad kilomeetreid, ei tea ikkagi, kas on oldud samal teel. Näen veel omajagu jälgi saabastega rändajatest, aga kõige rohkem on siin kandis ikkagi kõiksuguste kujude ja suurusega loomade jälgi. Ühel hetkel taipan, et saabaste jäljed on kadunud ning pilk telefonile näitabki, et oleksin pidanud koos nende jälgedega ära keerama. 
 
-Orienteerumisel on mul abiks telefonis OruxMapsi rakendus, millesse on laetud Maaameti kaart ja matkatee rada. See rakendus koos kõige täpsema Eesti kaardiga pakub palju rohkem võimalusi ja on mugavam kui mistahes GPS seade. Kõige ägedam on võimalus mõõta täpselt suvaliste matkatee lõikude pikkust, valides lihtsalt raja otspunktid. Soovitan.
+Orienteerumisel on mul abiks telefonis OruxMapsi rakendus, millesse on laetud Maaameti kaart ja matkatee rada. See rakendus koos kõige täpsema Eesti kaardiga pakub palju rohkem võimalusi ja on mugavam kui mistahes GPS seade. Kõige ägedam on võimalus mõõta täpselt suvaliste matkatee lõikude pikkust, valides lihtsalt raja otspunktid.
 
 ![202103131232_DSCF3654](../img/hikes/202103131232_DSCF3654.jpg)
 
